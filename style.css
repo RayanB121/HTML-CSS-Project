@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
 body{
     background-color: #F7CCAC;
-    background-image: url(/background-image.png);
+    background-image: url(background-image.png);
     background-repeat: no-repeat;
     background-size: cover;
     
