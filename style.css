@@ -1,0 +1,54 @@
+/*Import google font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+body{
+    background-color: #F7CCAC;
+    background-image: url(/background-image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.icon {
+	width: 150px;
+	border-radius: 50%;
+	background-color: #696969;
+    float: left;
+    
+}
+
+table,th,td {
+    border: 1px solid black;
+}
+
+.content{
+    
+}
+
+hr{
+    border-top: 5px dotted black;
+}
+
+.content-tables{
+    width: 1110px;
+    padding: 10px;
+}
+
+.name{
+   margin-left: 190px;
+}
+
+.btn,.btn2{
+    color: white;
+    background-color: red;
+    width: 250px;
+    height: 50px;
+}
+
+.btn{
+    position: absolute;
+    left: 50%;
+}
+.page2{
+    position: relative;
+    left: 50%;
+    padding: 5px;
+}
